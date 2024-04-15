@@ -9,7 +9,7 @@ export default function Homepage({ history }) {
     return (
         <div className='container maint-cnt'>
             <div className="header-nav">
-                <span className="mytext1"> Unique Travels </span>
+                <span className="mytext1"> busBreeze </span>
             </div>
             
             <div className="">
@@ -43,5 +43,3 @@ export default function Homepage({ history }) {
         </div>
     )
 }
-
-
